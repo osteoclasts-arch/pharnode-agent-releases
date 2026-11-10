@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>파르노드 agent</title>
+        <item>
+            <title>0.4.8</title>
+            <pubDate>Wed, 11 Nov 2026 00:11:55 +0900</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.4.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/osteoclasts-arch/pharnode-agent-releases/releases/download/v0.4.8/Pharnode-agent-0.4.8.dmg" length="18275751" type="application/octet-stream" sparkle:edSignature="sBWqAo+swfP3RwaTPHdn31CJ9EK7d/5Z04JNF5PNtlcaGU6XhRhY6gpLh41VEP1Z5/kVdjXRq9nTb1buFCUiCQ=="/>
+        </item>
+    </channel>
+</rss>
